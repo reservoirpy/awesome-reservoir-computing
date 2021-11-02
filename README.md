@@ -7,7 +7,7 @@ Awesome tutorials, papers, projects and tools for Reservoir Computing techniques
 * **[Fundamentals](#fundamentals)**
 * **[Tutorials](#tutorials)**
 * **[Papers](#papers)**
-* **[Code and tools](#code and tools)**
+* **[Tools](#tools)**
 * **[Contributing](#contributing)**
 
 
@@ -33,8 +33,7 @@ Awesome tutorials, papers, projects and tools for Reservoir Computing techniques
   
   
   #### RC for engineering and robotics
- 
-
-### Code and tools
+  
+### Tools
 
 ### Contributing
