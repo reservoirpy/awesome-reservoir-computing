@@ -8,6 +8,15 @@
 [Buonomano & Merzenich (1995)] Temporal Information Transformed into a Spatial Code by a Neural Network with Realistic Properties. Science 267, 1028-1030
 
 ### Reservoir 2000's
-- [Jaeger (2001)] The "echo state" approach to analysing and training recurrent neural networks. GMD Report 148, GMD - German National Research Institute for Computer Science 
-- [Maass et al. (2002)] Real-time computing without stable states: A new framework for neural computation based on perturbations. Neural Computation, 14(11):2531-2560 
-[...]
+[Jaeger (2001)] The "echo state" approach to analysing and training recurrent neural networks. GMD Report 148, GMD - German National Research Institute for Computer Science 
+
+[Maass et al. (2002)] Real-time computing without stable states: A new framework for neural computation based on perturbations. Neural Computation, 14(11):2531-2560
+
+[...(to be updated)...]
+
+## Introductory papers
+[Jaeger (Scholarpedia)](http://www.scholarpedia.org/article/Echo_state_network)
+
+## Reviews
+
+## Related to Neuroscience modelling
