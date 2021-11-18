@@ -20,6 +20,9 @@ Awesome tutorials, papers, projects and tools for Reservoir Computing techniques
 
 ### Tutorials
 
+  #### Tuning Hyperparameters
+  
+  - Hinaut & Trouvain (2021) [Which Hype for My New Task? Hints and Random Search for Echo State Networks Hyperparameters.](https://hal.inria.fr/hal-03203318/document) In International Conference on Artificial Neural Networks (pp. 83-97). Springer, Cham.
 
 ### Founders
 
