@@ -65,6 +65,10 @@ by a Neural Network with Realistic Properties.](https://personal.utdallas.edu/~k
   
 ### Recent papers
 
+  #### 2021
+  
+  - Manneschi et al. (2021). [SpaRCe: Improved Learning of Reservoir Computing Systems through Sparse Representations.](https://ieeexplore.ieee.org/iel7/5962385/6104215/09514399.pdf) IEEE Transactions on Neural Networks and Learning Systems.
+
   #### 2020
   
   - Bianchi et al. (2020) [Reservoir computing approaches for representation and classification of multivariate time series.](https://ieeexplore.ieee.org/iel7/5962385/6104215/09127499.pdf) IEEE transactions on neural networks and learning systems, 32(5), 2169-2179.
