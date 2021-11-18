@@ -67,7 +67,12 @@ by a Neural Network with Realistic Properties.](https://personal.utdallas.edu/~k
 
   #### 2021
   
+  - Pedrelli & Hinaut (2021). [Hierarchical-task reservoir for online semantic analysis from continuous speech.](https://ieeexplore.ieee.org/iel7/5962385/6104215/09548713.pdf) IEEE Transactions on Neural Networks and Learning Systems.
+  
   - Manneschi et al. (2021). [SpaRCe: Improved Learning of Reservoir Computing Systems through Sparse Representations.](https://ieeexplore.ieee.org/iel7/5962385/6104215/09514399.pdf) IEEE Transactions on Neural Networks and Learning Systems.
+
+  - Manneschi et al. (2021). [Exploiting multiple timescales in hierarchical echo state networks.](https://internal-journal.frontiersin.org/articles/10.3389/fams.2020.616658/full) Frontiers in Applied Mathematics and Statistics, 6, 76.
+
 
   #### 2020
   
