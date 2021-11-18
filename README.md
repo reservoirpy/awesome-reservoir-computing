@@ -62,6 +62,12 @@ by a Neural Network with Realistic Properties.](https://personal.utdallas.edu/~k
   - **RC as model of prefrontal cortex activity:** Enel, P., Procyk, E., Quilodran, R., & Dominey, P. F. (2016). [Reservoir Computing Properties of Neural Dynamics in Prefrontal Cortex.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004967) PLOS Computational Biology, 12(6), e1004967.
 
   - **RC as model of the working memory:** Strock, A., Hinaut, X., & Rougier, N. P. (2020). [A Robust Model of Gated Working Memory.](https://www.biorxiv.org/content/biorxiv/early/2019/08/01/589564.full.pdf) Neural Computation, 32(1), 153–181.
+  
+### Recent papers
+
+  #### 2020
+  
+  - Bianchi et al. (2020) [Reservoir computing approaches for representation and classification of multivariate time series.](https://ieeexplore.ieee.org/iel7/5962385/6104215/09127499.pdf) IEEE transactions on neural networks and learning systems, 32(5), 2169-2179.
 
 
 ### Tools
